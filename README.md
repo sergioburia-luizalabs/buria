@@ -1,6 +1,6 @@
 # Buria
 Test repository
 
-This is just for test purposes.
+This is just for test purposes!
 
 []s
