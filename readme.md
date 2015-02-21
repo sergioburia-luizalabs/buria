@@ -1,7 +1,6 @@
 # Buria
 Test repository
-
-&&&&&&&&&&&&&&&&&&&&&
+Test
 =======
 Gueieueieueiei
 
