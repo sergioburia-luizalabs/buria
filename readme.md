@@ -10,6 +10,5 @@ Testing commits through vim!
 
 !!!!!!!!
 
-LOLOLOL
 
-[]s
+[![Stories in Ready](https://badge.waffle.io/sergioburia-luizalabs/buria.svg?label=ready&title=Ready)](http://waffle.io/sergioburia-luizalabs/buria)
